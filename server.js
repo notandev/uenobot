@@ -13,3 +13,6 @@ function keepAlive() {
 }
 
 module.exports = keepAlive
+
+// INI SERVER CUMA BISA DIPAKAI DI REPLIT, BIAR BOT NYA BISA IDUP TERUS
+// Kalau di index.js gaada const keepAlive , Harus ditambahkan dulu biar bisa dipake
